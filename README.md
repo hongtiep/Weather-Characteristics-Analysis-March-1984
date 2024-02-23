@@ -10,4 +10,4 @@ You can view the PowerPoint file below to visualize in more detail the process a
 https://docs.google.com/presentation/d/1elxrMow0oJDldWcIvzvMpzcfX4Ap57fI/edit?usp=drive_link&ouid=110004581860349139297&rtpof=true&sd=true 
 
 You can view the entire project including code and analysis results using the following link:
-https://drive.google.com/drive/folders/1A2Nuymfr0GYCY0f-J-uU-JFYmIY0TABI?usp=sharing 
+https://drive.google.com/drive/folders/1A2Nuymfr0GYCY0f-J-uU-JFYmIY0TABI?usp=drive_link 
